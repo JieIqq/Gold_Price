@@ -1,7 +1,7 @@
 # gold_price
 
 ## Overview
-
+Struggling with r so, so try to write something by myelf
 ## File Structure
 
 The repo is structured as:
